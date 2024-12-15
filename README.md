@@ -1,2 +1,2 @@
 # BootCamp-Quiz-App
-Project done for the # weeks web dev bootcamp
+Project done for the 3 weeks web dev bootcamp
